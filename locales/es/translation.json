@@ -1,0 +1,22 @@
+{
+  "Add To Cart": "Añadir al carro",
+  "Babies": "Bebés",
+  "Checkout": "Pagar",
+  "Color": "Color",
+  "Delivery": "Gastos de envío",
+  "Delivery 9.90€. Free shipping with a minimum order of 100€": "Gastos de envío: 9.90€. Envío gratuito a partir de 100€",
+  "English": "Inglés",
+  "Kids": "Peques",
+  "Men": "Hombre",
+  "Remove": "Eliminar",
+  "Size": "Tallas",
+  "Spanish": "Español",
+  "Subtotal": "Subtotal",
+  "This product is pre-order. It will be dispatched 40 days after the campaing is closed": "Este producto es preventa. Recibirá su pedido 40 días después del cierre de campaña",
+  "Total": "Total",
+  "Total (VAT Included)": "Total (Impuestos incluidos)",
+  "VAT Included": "Impuestos incluidos",
+  "Women": "Mujer",
+  "Your cart": "Tu carrito de la compra",
+  "{{ cartSkuQuantity }} items": "{{ cartSkuQuantity }} artículos"
+}

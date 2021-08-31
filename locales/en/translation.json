@@ -1,0 +1,22 @@
+{
+  "Add To Cart": "Add To Cart",
+  "Babies": "Babies",
+  "Checkout": "Checkout",
+  "Color": "Color",
+  "Delivery": "Delivery",
+  "Delivery 9.90€. Free shipping with a minimum order of 100€": "Delivery 9.90€. Free shipping with a minimum order of 100€",
+  "English": "English",
+  "Kids": "Kids",
+  "Men": "Men",
+  "Remove": "Remove",
+  "Size": "Size",
+  "Spanish": "Spanish",
+  "Subtotal": "Subtotal",
+  "This product is pre-order. It will be dispatched 40 days after the campaing is closed": "This product is pre-order. It will be dispatched 40 days after the campaing is closed",
+  "Total": "Total",
+  "Total (VAT Included)": "Total (VAT Included)",
+  "VAT Included": "VAT Included",
+  "Women": "Women",
+  "Your cart": "Your cart",
+  "{{ cartSkuQuantity }} items": "{{ cartSkuQuantity }} items"
+}
